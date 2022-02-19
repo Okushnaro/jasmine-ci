@@ -1,0 +1,1 @@
+[![Node.js CI](https://github.com/Okushnaro/jasmine-ci/actions/workflows/jasmine-karma-ci.js.yml/badge.svg?branch=master&event=push)](https://github.com/Okushnaro/jasmine-ci/actions/workflows/jasmine-karma-ci.js.yml)

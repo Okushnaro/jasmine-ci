@@ -1,0 +1,22 @@
+{
+  "name": "simple-calc",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Oleksandr Kushnarov",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine-core": "^4.0.0",
+    "karma": "^6.3.15",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-cli": "^2.0.0",
+    "karma-coverage": "^2.2.0",
+    "karma-jasmine": "^4.0.1",
+    "karma-jasmine-matchers": "^5.0.0",
+    "puppeteer": "^13.3.2"
+  }
+}
